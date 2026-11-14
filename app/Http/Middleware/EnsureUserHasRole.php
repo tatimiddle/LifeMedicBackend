@@ -8,14 +8,20 @@ use Symfony\Component\HttpFoundation\Response;
 
 class EnsureUserHasRole
 {
-    public function handle(Request $request, Closure $next, string $role): Response
+    public function handle(Request $request, Closure $next, string ...$roles): Response
     {
         $user = $request->user();
 
-        if (!$user || !$user->role || $user->role->name !== $role) {
+        if (! $user || ! $user->is_active || $roles === []) {
             return response()->json(['message' => 'No autorizado.'], 403);
         }
 
-        return $next($request);
+        foreach ($roles as $role) {
+            if ($user->hasRole($role)) {
+                return $next($request);
+            }
+        }
+
+        return response()->json(['message' => 'No autorizado.'], 403);
     }
 }

@@ -1,0 +1,2507 @@
+[
+  {
+    "codigo": "MED-00101",
+    "catalog_type": "medicine",
+    "name": "Paracetamol 500mg (Caja x 20)",
+    "source_name": "Acetaminofen Mk 500Mg X 20 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Acetaminofen",
+    "formula": [
+      {
+        "ingredient": "Acetaminofen",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Acetaminofen (500.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-25A09",
+    "expiry": "Nov 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 2.01,
+    "previous_price": 2.34,
+    "stock": 85,
+    "min_stock": 20,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "Hipersensibilidad al acetaminofén, insuficiencia renal o hepática, úlcera gástrica y enfermedad ácido péptica.",
+    "description": "Acetaminofen Mk 500Mg X 20 Tabletas",
+    "image_url": "/images/catalog/MED-00101.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Acetaminofen-Mk-500Mg-X-20-Tabletas/A109252TABLETX20"
+  },
+  {
+    "codigo": "MED-00102",
+    "catalog_type": "medicine",
+    "name": "Ibuprofeno 400mg (Blíster x 10)",
+    "source_name": "Brusil 400Mg X 96 Tabletas (Ibuprofeno)",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Ibuprofeno",
+    "formula": [
+      {
+        "ingredient": "Ibuprofeno",
+        "amount": "400.00MG"
+      }
+    ],
+    "formula_summary": "Ibuprofeno (400.00MG)",
+    "brand": "Laboratorios Suizos",
+    "laboratory": "Laboratorios Suizos",
+    "batch": "LOT-24K18",
+    "expiry": "Mar 2025",
+    "expiry_status": "Por Vencer",
+    "prescription": "Venta Libre",
+    "price": 19.99,
+    "previous_price": 24.68,
+    "stock": 42,
+    "min_stock": 20,
+    "is_active": true,
+    "indications": "Está indicado para el alivio sintomático de los dolores ocasionales leves o moderados, como dolores de cabeza, dentales, menstruales, musculares (contracturas) o de espalda (lumbago), así como de estados febriles.",
+    "contraindications": "No se recomieda el uso en mujeres embarazadas o en periodo de lactancia ni en niños menores de 12 años. Dosis usual en el tratamiento sintomático de artritis reumatoidea crónica y aguda y en osteoartritis es 400 - 800 mg 3 o 4 veces al día. La dosis debe ser ajustada de acuerdo a la respuesta y tolerancia del paciente.",
+    "description": "Está indicado para el alivio sintomático de los dolores ocasionales leves o moderados, como dolores de cabeza, dentales, menstruales, musculares (contracturas) o de espalda (lumbago), así como de estados febriles.",
+    "image_url": "/images/catalog/MED-00102.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Brusil-400Mg-X-96-Tabletas-Ibuprofeno/A1265TABLETX96"
+  },
+  {
+    "codigo": "MED-00103",
+    "catalog_type": "medicine",
+    "name": "Amoxicilina 500mg (Cápsulas x 12)",
+    "source_name": "Amoxicilina Mk 500Mg X 30 Capsulas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Amoxicilina",
+    "formula": [
+      {
+        "ingredient": "Amoxicilina",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Amoxicilina (500.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-25B02",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 8.75,
+    "previous_price": 10.29,
+    "stock": 28,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Infecciones de vías respiratorias superiores , amigdalitis, sinusitis, otitis media. Infecciones de vías respiratorias inferiores, exacerbación aguda de bronquitis crónica, neumonía lobular, bronconeumonía. Infecciones de vías genitourinarias.",
+    "contraindications": "Hipersensibilidad e la formula. Precaución en embarazo y lactancia.",
+    "description": "Infecciones de vías respiratorias superiores , amigdalitis, sinusitis, otitis media. Infecciones de vías respiratorias inferiores, exacerbación aguda de bronquitis crónica, neumonía lobular, bronconeumonía. Infecciones de vías genitourinarias.",
+    "image_url": "/images/catalog/MED-00103.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Amoxicilina-Mk-500Mg-X-30-Capsulas/A502CAPSULX30"
+  },
+  {
+    "codigo": "MED-00104",
+    "catalog_type": "medicine",
+    "name": "Metformina 850mg (Tabletas x 30)",
+    "source_name": "Linagliptina 2.5+Metformina 850 AdiuvoX20 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antihipertensivo",
+    "active_ingredient": "Linagliptina",
+    "formula": [
+      {
+        "ingredient": "Linagliptina",
+        "amount": "2.50MG"
+      },
+      {
+        "ingredient": "Metformina HCL",
+        "amount": "850.00MG"
+      }
+    ],
+    "formula_summary": "Linagliptina (2.50MG), Metformina HCL (850.00MG)",
+    "brand": "Genericos Adiuvo",
+    "laboratory": "Adiuvo",
+    "batch": "LOT-24H14",
+    "expiry": "Ene 2026",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 15.42,
+    "previous_price": 16.95,
+    "stock": 0,
+    "min_stock": 20,
+    "is_active": false,
+    "indications": "Está indicado en adultos con diabetes mellitus tipo 2 como tratamiento asociado a dieta y ejercicio para mejorar el control glucémico como monoterapia cuando la metformina no es adecuada debido a intolerancia.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Está indicado en adultos con diabetes mellitus tipo 2 como tratamiento asociado a dieta y ejercicio para mejorar el control glucémico como monoterapia cuando la metformina no es adecuada debido a intolerancia.",
+    "image_url": "/images/catalog/MED-00104.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Linagliptina-25Metformina-850-AdiuvoX20-Tabletas/B0003246TABLETX20"
+  },
+  {
+    "codigo": "MED-00105",
+    "catalog_type": "medicine",
+    "name": "Acetaminofén 500mg Pediátrico Jarabe",
+    "source_name": "Acetaminofen Mk 160Mg/5Ml Jarabe 90Ml",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Acetaminofen",
+    "formula": [
+      {
+        "ingredient": "Acetaminofen",
+        "amount": "160.00MG"
+      }
+    ],
+    "formula_summary": "Acetaminofen (160.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-24M03",
+    "expiry": "Abr 2025",
+    "expiry_status": "Por Vencer",
+    "prescription": "Venta Libre",
+    "price": 5.5,
+    "previous_price": 6.54,
+    "stock": 19,
+    "min_stock": 20,
+    "is_active": true,
+    "indications": "Alivia el dolor de cabeza, dolores provocados por catarro comun, gripe, vacunaciones, enfermedades virales, dolores de dientes, dolores de oidos y dolores de garganta.",
+    "contraindications": "",
+    "description": "Alivia el dolor de cabeza, dolores provocados por catarro comun, gripe, vacunaciones, enfermedades virales, dolores de dientes, dolores de oidos y dolores de garganta.",
+    "image_url": "/images/catalog/MED-00105.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Acetaminofen-Mk-160Mg5Ml-Jarabe-90Ml/B0000430FRASCOX1"
+  },
+  {
+    "codigo": "MED-00106",
+    "catalog_type": "medicine",
+    "name": "Loratadina Mk 10Mg X 32 Tabletas",
+    "source_name": "Loratadina Mk 10Mg X 32 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Loratadina",
+    "formula": [
+      {
+        "ingredient": "Loratadina",
+        "amount": "10.00MG"
+      }
+    ],
+    "formula_summary": "Loratadina (10.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26C11",
+    "expiry": "Sep 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 29.15,
+    "previous_price": 35.99,
+    "stock": 64,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Está indicada en procesos alérgicos tales como, rinitis alérgica, urticaria crónica idiopática, alergia a picadura de insectos, alergia a medicamentos.",
+    "contraindications": "La Hipersensibilidad al medicamento o a alguno de sus componentes, mujeres en embarazo y lactancia, niños menores de dos años.",
+    "description": "Está indicada en procesos alérgicos tales como, rinitis alérgica, urticaria crónica idiopática, alergia a picadura de insectos, alergia a medicamentos.",
+    "image_url": "/images/catalog/MED-00106.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Loratadina-Mk-10Mg-X-32-Tabletas/A4668UNIDADX32"
+  },
+  {
+    "codigo": "MED-00107",
+    "catalog_type": "medicine",
+    "name": "Esomeprazol Mk 20Mg X 30 Tabletas",
+    "source_name": "Esomeprazol Mk 20Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Acidez, gases y reflujo",
+    "active_ingredient": "Esomeprazol",
+    "formula": [
+      {
+        "ingredient": "Esomeprazol",
+        "amount": "20.00MG"
+      }
+    ],
+    "formula_summary": "Esomeprazol (20.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26D04",
+    "expiry": "Nov 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 21.21,
+    "previous_price": 26.18,
+    "stock": 52,
+    "min_stock": 20,
+    "is_active": true,
+    "indications": "Funcionan reduciendo la cantidad de ácido que produce el estómago.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Funcionan reduciendo la cantidad de ácido que produce el estómago.",
+    "image_url": "/images/catalog/MED-00107.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Esomeprazol-Mk-20Mg-X-30-Tabletas/A102800TABLETX30"
+  },
+  {
+    "codigo": "MED-00108",
+    "catalog_type": "medicine",
+    "name": "Azitromicina Genfar 500Mg X 3 Tabletas",
+    "source_name": "Azitromicina Genfar 500Mg X 3 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Azitromicina",
+    "formula": [
+      {
+        "ingredient": "Azitromicina",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Azitromicina (500.00MG)",
+    "brand": "Genericos Genfar",
+    "laboratory": "Genfar",
+    "batch": "LOT-26E19",
+    "expiry": "Dic 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 12.45,
+    "previous_price": null,
+    "stock": 30,
+    "min_stock": 10,
+    "is_active": true,
+    "indications": "Infecciones del tracto respiratorio superior e inferior, piel y anexos cutáneos; enfermedades de transmisión sexual y en general, en procesos infecciosos bacterianos causados por gérmenes susceptibles, aerobios, anaerobios, gram-positivos, gram-negativos, clamydias y neisserias.",
+    "contraindications": "El uso de este producto está contraindicado en pacientes con antecedentes de reacciones alérgicas a la azitromicina o a cualquiera de los antibióticos macrólidos.",
+    "description": "Infecciones del tracto respiratorio superior e inferior, piel y anexos cutáneos; enfermedades de transmisión sexual y en general, en procesos infecciosos bacterianos causados por gérmenes susceptibles, aerobios, anaerobios, gram-positivos, gram-negativos, clamydias y neisserias.",
+    "image_url": "/images/catalog/MED-00108.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Azitromicina-Genfar-500Mg-X-3-Tabletas/A866TABLETX3"
+  },
+  {
+    "codigo": "MED-00109",
+    "catalog_type": "medicine",
+    "name": "Losartan-H Mk 50Mg/12.5Mg X 30 Tabletas",
+    "source_name": "Losartan-H Mk 50Mg/12.5Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antihipertensivo",
+    "active_ingredient": "Losartan Potásico",
+    "formula": [
+      {
+        "ingredient": "Losartan Potásico",
+        "amount": "50.00MG"
+      },
+      {
+        "ingredient": "Hidroclorotiazida",
+        "amount": "12.50MG"
+      }
+    ],
+    "formula_summary": "Losartan Potásico (50.00MG), Hidroclorotiazida (12.50MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26F02",
+    "expiry": "Oct 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 23.14,
+    "previous_price": 26.0,
+    "stock": 40,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Está indicado para el tratamiento de la hipertensión esencial (presión arterial alta).",
+    "contraindications": "Si es alérgico a losartán, hidroclorotiazida o a cualquiera de los demás componentes de este medicamento.",
+    "description": "Está indicado para el tratamiento de la hipertensión esencial (presión arterial alta).",
+    "image_url": "/images/catalog/MED-00109.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Losartan-H-Mk-50Mg125Mg-X-30-Tabletas/A103346TABLETX30"
+  },
+  {
+    "codigo": "MED-00110",
+    "catalog_type": "medicine",
+    "name": "Abrilar Jarabe Con Mentol Frasco X 200Ml",
+    "source_name": "Abrilar Jarabe Con Mentol Frasco X 200Ml",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Gripe y tos",
+    "active_ingredient": "Extracto De Hedera Helix Seco",
+    "formula": [
+      {
+        "ingredient": "Extracto de Hedera Helix Seco",
+        "amount": "0.70GR"
+      },
+      {
+        "ingredient": "Mentol",
+        "amount": "0.50GR"
+      }
+    ],
+    "formula_summary": "Extracto de Hedera Helix Seco (0.70GR), Mentol (0.50GR)",
+    "brand": "Megalabs",
+    "laboratory": "Megalabs",
+    "batch": "LOT-26G08",
+    "expiry": "Jul 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 21.67,
+    "previous_price": 26.75,
+    "stock": 33,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Ayuda a curar y tratar afecciones tales como: tratamiento sintomático de la tos y enfermedades bronquiales inflamatorias agudas y crónicas. Es mucolitico y espasmolitico.",
+    "contraindications": "Abrilar en embarazadas no se recomienda y su uso queda a criterio médico, ya que no existen suficientes datos que confirmen su inocuidad y seguridad.",
+    "description": "Ayuda a curar y tratar afecciones tales como: tratamiento sintomático de la tos y enfermedades bronquiales inflamatorias agudas y crónicas. Es mucolitico y espasmolitico.",
+    "image_url": "/images/catalog/MED-00110.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Abrilar-Jarabe-Con-Mentol-Frasco-X-200Ml/A107834FRASCOX1"
+  },
+  {
+    "codigo": "DER-00205",
+    "catalog_type": "product",
+    "name": "Protector Solar Facial FPS 50+ Oil Control",
+    "source_name": "Eucerin Hyaluron Filler Elasticity Dia Fps30 50Ml",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Eucerin",
+    "laboratory": "Eucerin",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 60.89,
+    "previous_price": 70.8,
+    "stock": 35,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Eucerin Hyaluron Filler Elasticity Dia Fps30 50Ml",
+    "image_url": "/images/catalog/DER-00205.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Eucerin-Hyaluron-Filler-Elasticity-Dia-Fps30-50Ml/A110598UNIDADX1"
+  },
+  {
+    "codigo": "VIT-00310",
+    "catalog_type": "product",
+    "name": "Vitamina C + Zinc 1000mg Efervescente",
+    "source_name": "Redoxon Doble Accion X 36 Tabletas Efervescentes",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Sistema inmunologico",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Zinc",
+        "amount": "10.00MG"
+      },
+      {
+        "ingredient": "Vitamina C",
+        "amount": "1.00GR"
+      }
+    ],
+    "formula_summary": "Zinc (10.00MG), Vitamina C (1.00GR)",
+    "brand": "Redoxon",
+    "laboratory": "Bayer Salud",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 13.46,
+    "previous_price": 16.56,
+    "stock": 62,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Ayuda a fortalecer tu sistema inmune para disminuir y aliviar más rápidamente los síntomas del resfrío común. Estimula la proliferación de las células del sistema inmune que responden a las infecciones.",
+    "contraindications": "Hipersensibilidad al componente.",
+    "description": "Ayuda a fortalecer tu sistema inmune para disminuir y aliviar más rápidamente los síntomas del resfrío común. Estimula la proliferación de las células del sistema inmune que responden a las infecciones.",
+    "image_url": "/images/catalog/VIT-00310.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Redoxon-Doble-Accion-X-36-Tabletas-Efervescentes/A104137TABLETX36"
+  },
+  {
+    "codigo": "PER-00412",
+    "catalog_type": "product",
+    "name": "Gel Limpiador Facial Purificante 200ml",
+    "source_name": "Effaclar Gel Limpiador Purificante 300Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Acne",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Agua",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Sodio Laureth",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Hexilenglicol",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Hidroxido de Sodio",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Agua (0.00), Sodio Laureth (0.00), Hexilenglicol (0.00), Hidroxido de Sodio (0.00)",
+    "brand": "La Roche Posay",
+    "laboratory": "La Roche Posay",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 33.57,
+    "previous_price": 40.94,
+    "stock": 14,
+    "min_stock": 20,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Gel purificante con agentes limpiadores que eliminan las impurezas y el exceso de sebo.",
+    "image_url": "/images/catalog/PER-00412.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Effaclar-Gel-Limpiador-Purificante-300Ml/A102168FRASCOX1"
+  },
+  {
+    "codigo": "BEB-00504",
+    "catalog_type": "product",
+    "name": "Crema Protectora Pañalitis 110g",
+    "source_name": "Mustela Shampoo Suave Bebe 500Ml",
+    "category": "Bebé",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Bebé",
+    "formula": [
+      {
+        "ingredient": "Extracto de Manzanilla",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Germen de Trigo",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Péptidos de Aguacate",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Extracto de Manzanilla (0.00), Germen de Trigo (0.00), Péptidos de Aguacate (0.00)",
+    "brand": "Mustela",
+    "laboratory": "Mustela",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 17.67,
+    "previous_price": 19.95,
+    "stock": 18,
+    "min_stock": 10,
+    "is_active": true,
+    "indications": "Shampoo Suave para el cabello fino y delicado del bebé o niño.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Shampoo Suave para el cabello fino y delicado del bebé o niño.",
+    "image_url": "/images/catalog/BEB-00504.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Mustela-Shampoo-Suave-Bebe-500Ml/A108985FRASCOX1"
+  },
+  {
+    "codigo": "FRA-00608",
+    "catalog_type": "product",
+    "name": "Agua Micelar Termal Suave 400ml",
+    "source_name": "Sensibio H2O Agua Micelar 500Ml Bioderma",
+    "category": "Fragancias",
+    "san_nicolas_category": "Desmaquillantes y tonicos",
+    "active_ingredient": "Fragancias",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Bioderma",
+    "laboratory": "Bioderma",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 37.14,
+    "previous_price": 45.85,
+    "stock": 27,
+    "min_stock": 10,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Para la piel pura y original, aliviada y sin restos de maquillaje ni contaminación. Sin perfurme.",
+    "image_url": "/images/catalog/FRA-00608.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Sensibio-H2O-Agua-Micelar-500Ml-Bioderma/B0000695UNIDADX1"
+  },
+  {
+    "codigo": "DER-00206",
+    "catalog_type": "product",
+    "name": "Anthelios Uvair Serum Spf 50+ Tono Deep 50 Ml",
+    "source_name": "Anthelios Uvair Serum Spf 50+ Tono Deep 50 Ml",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Proteccion solar facial",
+    "active_ingredient": "Dermocosmética",
+    "formula": [
+      {
+        "ingredient": "Tocoferol",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Alcohol",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Hialuronato de Sodio",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Niacinamina",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Agua",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Trietanolanina",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Goma Xantham",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Acido Palmitico",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Silica",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Perlite",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Glicerina",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Acido Cítrico",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Tocoferol (0.00), Alcohol (0.00), Hialuronato de Sodio (0.00), Niacinamina (0.00), Agua (0.00), Trietanolanina (0.00), Goma Xantham (0.00), Acido Palmitico (0.00), Silica (0.00), Perlite (0.00), Glicerina (0.00), Acido Cítrico (0.00)",
+    "brand": "La Roche Posay",
+    "laboratory": "La Roche Posay",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 36.91,
+    "previous_price": 42.92,
+    "stock": 22,
+    "min_stock": 10,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Protector solar con color, ultraligero y de acabado natural. Formulado con ácido hialurónico, vitamina E y niacinamida para hidratar y controlar el sebo.",
+    "image_url": "/images/catalog/DER-00206.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Anthelios-Uvair-Serum-Spf-50-Tono-Deep-50-Ml/B0003653UNIDADX1"
+  },
+  {
+    "codigo": "PER-00413",
+    "catalog_type": "product",
+    "name": "Abradermol Facial Corporal Crema Exfoliante 50G",
+    "source_name": "Abradermol Facial Corporal Crema Exfoliante 50G",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Aceites y exfoliantes corporales",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Nicotinamida",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Hidroxido de Aluminio",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Nicotinamida (0.00), Hidroxido de Aluminio (0.00)",
+    "brand": "Sesderma",
+    "laboratory": "Sesderma",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 37.39,
+    "previous_price": 46.16,
+    "stock": 31,
+    "min_stock": 10,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Crema facial y corporal de microdermoabrasion formulada con cristales de oxido de aluminio que producen una exfoliacion de las celulas muertas y estimulan la renovacion celular dando como resultado una piel lisa y sin imperfecciones.",
+    "image_url": "/images/catalog/PER-00413.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Abradermol-Facial-Corporal-Crema-Exfoliante-50G/A012291TUBO-bw-TX1"
+  },
+  {
+    "codigo": "BEB-00505",
+    "catalog_type": "product",
+    "name": "Aceite Bebe Noches Tranquilas Lavanda Jaloma 120Ml",
+    "source_name": "Aceite Bebe Noches Tranquilas Lavanda Jaloma 120Ml",
+    "category": "Bebé",
+    "san_nicolas_category": "Cuidados del bebe",
+    "active_ingredient": "Bebé",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Jaloma",
+    "laboratory": "Jaloma",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 2.15,
+    "previous_price": null,
+    "stock": 45,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Aceite para bebé aroma lavanda que ayuda a relajar mientras protege la piel de tu bebé.",
+    "image_url": "/images/catalog/BEB-00505.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Aceite-Bebe-Noches-Tranquilas-Lavanda-Jaloma-120Ml/B0000536UNIDADX1"
+  },
+  {
+    "codigo": "FRA-00609",
+    "catalog_type": "product",
+    "name": "Perfume Para Hombre Free Betres On 53Ml",
+    "source_name": "Perfume Para Hombre Free Betres On 53Ml",
+    "category": "Fragancias",
+    "san_nicolas_category": "Perfumeria",
+    "active_ingredient": "Fragancias",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Betrés",
+    "laboratory": "Betrés",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 14.99,
+    "previous_price": null,
+    "stock": 16,
+    "min_stock": 8,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Betres On Perfume Free Hombre es una fragancia fresca y duradera, para un hombre atrevido, vivaz y divertido.",
+    "image_url": "/images/catalog/FRA-00609.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Perfume-Para-Hombre-Free--Betres-On-53Ml/B0000636UNIDADX1"
+  },
+  {
+    "codigo": "BEB-00506",
+    "catalog_type": "product",
+    "name": "Locion Manteca De Karite Palmers 50Ml",
+    "source_name": "Locion Manteca De Karite Palmers 50Ml",
+    "category": "Bebé",
+    "san_nicolas_category": "Cremas corporales",
+    "active_ingredient": "Bebé",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Palmer's",
+    "laboratory": "Palmer's",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 2.5,
+    "previous_price": null,
+    "stock": 65,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Locion Manteca De Karite Palmers 50Ml",
+    "image_url": "/images/catalog/BEB-00506.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Locion-Manteca-De-Karite-Palmers-50Ml/B0002407UNIDADX1"
+  },
+  {
+    "codigo": "BEB-00507",
+    "catalog_type": "product",
+    "name": "Jabón Huggies Extra Suave 75GR",
+    "source_name": "Jabón Huggies Extra Suave 75GR",
+    "category": "Bebé",
+    "san_nicolas_category": "Cuidados del bebe",
+    "active_ingredient": "Bebé",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Huggies",
+    "laboratory": "Huggies",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 1.35,
+    "previous_price": null,
+    "stock": 24,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Jabón Huggies Extra Suave 75GR",
+    "image_url": "/images/catalog/BEB-00507.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Jabón-Huggies-Extra-Suave-75GR/A107292UNIDADX1"
+  },
+  {
+    "codigo": "BEB-00508",
+    "catalog_type": "product",
+    "name": "Aceite Limpiador Facial Skin Therapy Palmers 190Ml",
+    "source_name": "Aceite Limpiador Facial Skin Therapy Palmers 190Ml",
+    "category": "Bebé",
+    "san_nicolas_category": "Desmaquillantes y tonicos",
+    "active_ingredient": "Bebé",
+    "formula": [
+      {
+        "ingredient": "Cosmetico Facial",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Cosmetico Facial (0.00)",
+    "brand": "Palmer's",
+    "laboratory": "Palmer's",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 17.64,
+    "previous_price": null,
+    "stock": 14,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Contiene más de 10 ingredientes oléicos naturales como Rosa mosqueta, Aceite de Jojoba, Aceite de Semilla de Uva, Manteca de Cacao, Vitamina E, Vitamina C, etc.",
+    "image_url": "/images/catalog/BEB-00508.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Aceite-Limpiador-Facial-Skin-Therapy-Palmers-190Ml/A101690FRASCOX1"
+  },
+  {
+    "codigo": "BEB-00509",
+    "catalog_type": "product",
+    "name": "Shampoo Huggies Manzanilla 200 ML",
+    "source_name": "Shampoo Huggies Manzanilla 200 ML",
+    "category": "Bebé",
+    "san_nicolas_category": "Cuidados del bebe",
+    "active_ingredient": "Bebé",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Huggies",
+    "laboratory": "Huggies",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 4.05,
+    "previous_price": null,
+    "stock": 29,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Shampoo Huggies Manzanilla 200 ML",
+    "image_url": "/images/catalog/BEB-00509.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Shampoo-Huggies-Manzanilla-200-ML/A107291UNIDADX1"
+  },
+  {
+    "codigo": "BEB-00510",
+    "catalog_type": "product",
+    "name": "Bepanthene Crema Regeneradora Tubo X 30 Gramos",
+    "source_name": "Bepanthene Crema Regeneradora Tubo X 30 Gramos",
+    "category": "Bebé",
+    "san_nicolas_category": "Bayer",
+    "active_ingredient": "Bebé",
+    "formula": [
+      {
+        "ingredient": "Dexpantenol",
+        "amount": "50.00MG"
+      }
+    ],
+    "formula_summary": "Dexpantenol (50.00MG)",
+    "brand": "Bepanthene",
+    "laboratory": "Bayer Salud",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 8.48,
+    "previous_price": 9.87,
+    "stock": 41,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Bepanthen crema se puede usar para regenerar e hidratar las áreas del cuerpo y cara. Su fórmula con provitamina b5 penetra las capas de la piel y acelera su proceso natural de regeneración.",
+    "contraindications": "Hipersensibilidad a los componentes de la formula.",
+    "description": "Bepanthen crema se puede usar para regenerar e hidratar las áreas del cuerpo y cara. Su fórmula con provitamina b5 penetra las capas de la piel y acelera su proceso natural de regeneración.",
+    "image_url": "/images/catalog/BEB-00510.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Bepanthene-Crema-Regeneradora-Tubo-X-30-Gramos/A1033UNIDADX1"
+  },
+  {
+    "codigo": "DER-00207",
+    "catalog_type": "product",
+    "name": "Cerave Locion Hidratante de Rostro PM 52ML",
+    "source_name": "Cerave Locion Hidratante de Rostro PM 52ML",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "CeraVe",
+    "laboratory": "CeraVe",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 25.92,
+    "previous_price": 27.0,
+    "stock": 18,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Cerave Locion Hidratante de Rostro PM 52ML",
+    "image_url": "/images/catalog/DER-00207.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Cerave-Locion-Hidratante-de-Rostro-PM-52ML/B0001530UNIDADX1"
+  },
+  {
+    "codigo": "DER-00208",
+    "catalog_type": "product",
+    "name": "Cerave Locion Hidratante Intensiva 8Onz",
+    "source_name": "Cerave Locion Hidratante Intensiva 8Onz",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "CeraVe",
+    "laboratory": "CeraVe",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 30.72,
+    "previous_price": 32.0,
+    "stock": 54,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Cerave Locion Hidratante Intensiva 8Onz",
+    "image_url": "/images/catalog/DER-00208.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Cerave-Locion-Hidratante-Intensiva-8Onz/B0002270UNIDADX1"
+  },
+  {
+    "codigo": "DER-00209",
+    "catalog_type": "product",
+    "name": "Isdin Eryfotona Ak-Nmsc 100+",
+    "source_name": "Isdin Eryfotona Ak-Nmsc 100+",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Proteccion solar",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Isdin",
+    "laboratory": "Isdin",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 45.5,
+    "previous_price": null,
+    "stock": 72,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Isdin Eryfotona Ak-Nmsc 100+",
+    "image_url": "/images/catalog/DER-00209.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Isdin-Eryfotona-Ak-Nmsc-100/B0002168UNIDADX1"
+  },
+  {
+    "codigo": "DER-00210",
+    "catalog_type": "product",
+    "name": "Isdin Hyaluronic Concentrate",
+    "source_name": "Isdin Hyaluronic Concentrate",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Cremas corporales",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Isdin",
+    "laboratory": "Isdin",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 74.75,
+    "previous_price": null,
+    "stock": 0,
+    "min_stock": 12,
+    "is_active": false,
+    "indications": "",
+    "contraindications": "",
+    "description": "Isdin Hyaluronic Concentrate",
+    "image_url": "/images/catalog/DER-00210.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Isdin-Hyaluronic-Concentrate/B0002161UNIDADX1"
+  },
+  {
+    "codigo": "DER-00211",
+    "catalog_type": "product",
+    "name": "Isdin Micellar Solution 400Ml",
+    "source_name": "Isdin Micellar Solution 400Ml",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Desmaquillantes y tonicos",
+    "active_ingredient": "Dermocosmética",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Isdin",
+    "laboratory": "Isdin",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 33.75,
+    "previous_price": null,
+    "stock": 36,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Isdin Micellar Solution 400Ml",
+    "image_url": "/images/catalog/DER-00211.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Isdin-Micellar-Solution-400Ml/B0002169UNIDADX1"
+  },
+  {
+    "codigo": "DER-00212",
+    "catalog_type": "product",
+    "name": "Mineral 89 Serum Vichy 50Ml",
+    "source_name": "Mineral 89 Serum Vichy 50Ml",
+    "category": "Dermocosmética",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Dermocosmética",
+    "formula": [
+      {
+        "ingredient": "Acido Hialuronico",
+        "amount": "0.00"
+      },
+      {
+        "ingredient": "Agua mineralizante",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Acido Hialuronico (0.00), Agua mineralizante (0.00)",
+    "brand": "Vichy",
+    "laboratory": "Vichy",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 48.02,
+    "previous_price": 52.77,
+    "stock": 32,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Serum formulado con 89% de agua volcánica de Vichy y ácido hialurónico de origen natural refuerza tu piel contra agresiones externas e internas como la contaminación, el estrés y la fatiga. Recomendada para todos los tipos de piel.",
+    "image_url": "/images/catalog/DER-00212.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Mineral-89-Serum-Vichy-50Ml/A101770FRASCOX1"
+  },
+  {
+    "codigo": "FRA-00610",
+    "catalog_type": "product",
+    "name": "Colivia X 36 Tabletas",
+    "source_name": "Colivia X 36 Tabletas",
+    "category": "Fragancias",
+    "san_nicolas_category": "Acidez, gases y reflujo",
+    "active_ingredient": "Fragancias",
+    "formula": [
+      {
+        "ingredient": "Bromelina",
+        "amount": "50.00MG"
+      },
+      {
+        "ingredient": "Lipasa",
+        "amount": "10.00MG"
+      },
+      {
+        "ingredient": "Papaina",
+        "amount": "30.00MG"
+      }
+    ],
+    "formula_summary": "Bromelina (50.00MG), Lipasa (10.00MG), Papaina (30.00MG)",
+    "brand": "Genericos Lab. Suizos",
+    "laboratory": "Laboratorios Suizos",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 9.8,
+    "previous_price": 12.1,
+    "stock": 41,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Recomendado para trastornos digestivos en general, colitis y meteorismo. Favorece el metabolismo del hígado y el funcionamiento de la vesícula biliar.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Recomendado para trastornos digestivos en general, colitis y meteorismo. Favorece el metabolismo del hígado y el funcionamiento de la vesícula biliar.",
+    "image_url": "/images/catalog/FRA-00610.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Colivia-X-36-Tabletas/A107810TABLETX36"
+  },
+  {
+    "codigo": "FRA-00611",
+    "catalog_type": "product",
+    "name": "Sustenta X 60 Tabletas",
+    "source_name": "Sustenta X 60 Tabletas",
+    "category": "Fragancias",
+    "san_nicolas_category": "Fuerza y energia",
+    "active_ingredient": "Fragancias",
+    "formula": [
+      {
+        "ingredient": "Ácido Pantoténico",
+        "amount": "2.19MG"
+      },
+      {
+        "ingredient": "Colina",
+        "amount": "62.50MG"
+      },
+      {
+        "ingredient": "Inositol",
+        "amount": "21.05MG"
+      },
+      {
+        "ingredient": "Vitamina C",
+        "amount": "77.32MG"
+      },
+      {
+        "ingredient": "Vitamina B6",
+        "amount": "0.61MG"
+      }
+    ],
+    "formula_summary": "Ácido Pantoténico (2.19MG), Colina (62.50MG), Inositol (21.05MG), Vitamina C (77.32MG), Vitamina B6 (0.61MG)",
+    "brand": "Sustenta",
+    "laboratory": "Belle Vie",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 24.29,
+    "previous_price": 29.99,
+    "stock": 48,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Contribuye a aliviar los sintomas de la menopausia y al buen mantenimiento de los huesos.",
+    "contraindications": "Hipersensibilidad a la formula.",
+    "description": "Contribuye a aliviar los sintomas de la menopausia y al buen mantenimiento de los huesos.",
+    "image_url": "/images/catalog/FRA-00611.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Sustenta-X-60-Tabletas/A012241TABLETX60"
+  },
+  {
+    "codigo": "FRA-00612",
+    "catalog_type": "product",
+    "name": "Agua Micelar En Aceite Oleo Bifasica 100Ml Garnier",
+    "source_name": "Agua Micelar En Aceite Oleo Bifasica 100Ml Garnier",
+    "category": "Fragancias",
+    "san_nicolas_category": "Desmaquillantes y tonicos",
+    "active_ingredient": "Fragancias",
+    "formula": [
+      {
+        "ingredient": "Cosmetico Facial",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Cosmetico Facial (0.00)",
+    "brand": "Garnier",
+    "laboratory": "L'Oréal Paris",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 6.05,
+    "previous_price": null,
+    "stock": 65,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Agua micelar bifásica. Desmaquilla hasta el maquillaje más resistente o waterproof. Limpia en profundidad nutriendo la piel. Sin acabado graso.",
+    "image_url": "/images/catalog/FRA-00612.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Agua-Micelar-En-Aceite-Oleo-Bifasica-100Ml-Garnier/A107845UNIDADX1"
+  },
+  {
+    "codigo": "FRA-00613",
+    "catalog_type": "product",
+    "name": "Agua Micelar Express Aclara Garnier 400 ml",
+    "source_name": "Agua Micelar Express Aclara Garnier 400 ml",
+    "category": "Fragancias",
+    "san_nicolas_category": "Cremas y serums",
+    "active_ingredient": "Fragancias",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Garnier",
+    "laboratory": "L'Oréal Paris",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 14.7,
+    "previous_price": null,
+    "stock": 24,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Agua Micelar Express Aclara Garnier 400 ml",
+    "image_url": "/images/catalog/FRA-00613.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Agua-Micelar-Express-Aclara-Garnier-400-ml/B0002546UNIDADX1"
+  },
+  {
+    "codigo": "MED-00111",
+    "catalog_type": "medicine",
+    "name": "Diclofenaco Mk Sodico 50Mg X 50 Tabletas",
+    "source_name": "Diclofenaco Mk Sodico 50Mg X 50 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Diclofenaco",
+    "formula": [
+      {
+        "ingredient": "Diclofenaco",
+        "amount": "50.00MG"
+      }
+    ],
+    "formula_summary": "Diclofenaco (50.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26W31",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 15.15,
+    "previous_price": 17.62,
+    "stock": 18,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Tratamiento de la dismenorrea primaria. Alivio del dolor leve a moderado. Alivio de los signos y síntomas de osteoartritis.",
+    "contraindications": "Está contraindicado en pacientes con hipersensibilidad conocida al diclofenaco o a cualquiera de los otros componentes de la formula.",
+    "description": "Tratamiento de la dismenorrea primaria. Alivio del dolor leve a moderado. Alivio de los signos y síntomas de osteoartritis.",
+    "image_url": "/images/catalog/MED-00111.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Diclofenaco-Mk-Sodico-50Mg-X-50-Tabletas/A2403TABLETX50"
+  },
+  {
+    "codigo": "MED-00112",
+    "catalog_type": "medicine",
+    "name": "Meloxicam Calox 15Mg X 30 Tabletas",
+    "source_name": "Meloxicam Calox 15Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Artritis y reumatismo",
+    "active_ingredient": "Meloxicam",
+    "formula": [
+      {
+        "ingredient": "Meloxicam",
+        "amount": "15.00MG"
+      }
+    ],
+    "formula_summary": "Meloxicam (15.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26Y32",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 32.47,
+    "previous_price": 40.09,
+    "stock": 54,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Indicado para el tratamiento de la artritis reumatoide.",
+    "contraindications": "Hipersensibilidad al componente.",
+    "description": "Indicado para el tratamiento de la artritis reumatoide.",
+    "image_url": "/images/catalog/MED-00112.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Meloxicam-Calox-15Mg-X-30-Tabletas/A4865TABLETX30"
+  },
+  {
+    "codigo": "MED-00113",
+    "catalog_type": "medicine",
+    "name": "Meloxicam Mk 15Mg X 10 Tabletas",
+    "source_name": "Meloxicam Mk 15Mg X 10 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Artritis y reumatismo",
+    "active_ingredient": "Meloxicam",
+    "formula": [
+      {
+        "ingredient": "Meloxicam",
+        "amount": "15.00MG"
+      }
+    ],
+    "formula_summary": "Meloxicam (15.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26A33",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 7.19,
+    "previous_price": 8.36,
+    "stock": 72,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Indicado para el tratamiento de la artritis reumatoide.",
+    "contraindications": "Hipersensibilidad al componente.",
+    "description": "Indicado para el tratamiento de la artritis reumatoide.",
+    "image_url": "/images/catalog/MED-00113.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Meloxicam-Mk-15Mg-X-10-Tabletas/A108292TABLETX10"
+  },
+  {
+    "codigo": "MED-00114",
+    "catalog_type": "medicine",
+    "name": "Diclofenaco Mk Sodico 50Mg X 20 Tabletas",
+    "source_name": "Diclofenaco Mk Sodico 50Mg X 20 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Diclofenaco Sodico",
+    "formula": [
+      {
+        "ingredient": "Diclofenaco Sodico",
+        "amount": "50.00MG"
+      }
+    ],
+    "formula_summary": "Diclofenaco Sodico (50.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26C34",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Venta Libre",
+    "price": 6.06,
+    "previous_price": 7.05,
+    "stock": 0,
+    "min_stock": 15,
+    "is_active": false,
+    "indications": "Tratamiento de la dismenorrea primaria. Alivio del dolor leve a moderado. Alivio de los signos y síntomas de osteoartritis.",
+    "contraindications": "Hipersensibilidad al componente.",
+    "description": "Tratamiento de la dismenorrea primaria. Alivio del dolor leve a moderado. Alivio de los signos y síntomas de osteoartritis.",
+    "image_url": "/images/catalog/MED-00114.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Diclofenaco-Mk-Sodico-50Mg-X-20-Tabletas/B0003303TABLETX20"
+  },
+  {
+    "codigo": "MED-00115",
+    "catalog_type": "medicine",
+    "name": "Aspirina Forte X 20 Tabletas",
+    "source_name": "Aspirina Forte X 20 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cabeza y migraña",
+    "active_ingredient": "Cafeina",
+    "formula": [
+      {
+        "ingredient": "Cafeina",
+        "amount": "50.00MG"
+      },
+      {
+        "ingredient": "Acido Acetilsalicilico",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Cafeina (50.00MG), Acido Acetilsalicilico (500.00MG)",
+    "brand": "Aspirina",
+    "laboratory": "Bayer Salud",
+    "batch": "LOT-26E35",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 3.18,
+    "previous_price": 3.77,
+    "stock": 36,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Analgésico que alivia la migraña y sus síntomas. La combinación de ingredientes de aspirina forte, que contiene ácido acetilsalicílico y cafeína, ayuda a aliviar la migraña y sus síntomas, tales como intolerancia a la luz, ruidos, sonidos y náuseas.",
+    "contraindications": "No usar en niños o adolescentes con síntomas de gripe o varicela por el síndrome de reye. Consultar al médico para la administración a menores de 16 años y a mujeres embarazadas. No administrar en pacientes con: asma, gota, úlcera gastroduodenal, insuficiencia hepática o renal, alergia a los salicilatos; si tiene tratamiento con anticoagulantes o tiene una cirugía dentro de 7 días o si lo toma simultáneamente con alcohol o corticosteroides.",
+    "description": "Analgésico que alivia la migraña y sus síntomas. La combinación de ingredientes de aspirina forte, que contiene ácido acetilsalicílico y cafeína, ayuda a aliviar la migraña y sus síntomas, tales como intolerancia a la luz, ruidos, sonidos y náuseas.",
+    "image_url": "/images/catalog/MED-00115.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Aspirina-Forte-X-20-Tabletas/A715TABLETX20"
+  },
+  {
+    "codigo": "MED-00116",
+    "catalog_type": "medicine",
+    "name": "Aspirina Forte X 100 Tabletas",
+    "source_name": "Aspirina Forte X 100 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cabeza y migraña",
+    "active_ingredient": "Cafeina",
+    "formula": [
+      {
+        "ingredient": "Cafeina",
+        "amount": "50.00MG"
+      },
+      {
+        "ingredient": "Acido Acetilsalicilico",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Cafeina (50.00MG), Acido Acetilsalicilico (500.00MG)",
+    "brand": "Aspirina",
+    "laboratory": "Bayer Salud",
+    "batch": "LOT-26G36",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 15.81,
+    "previous_price": 17.0,
+    "stock": 32,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Analgésico que alivia la migraña y sus síntomas. La combinación de ingredientes de aspirina forte, que contiene ácido acetilsalicílico y cafeína, ayuda a aliviar la migraña y sus síntomas, tales como intolerancia a la luz, ruidos, sonidos y náuseas.",
+    "contraindications": "No usar en niños o adolescentes con síntomas de gripe o varicela por el síndrome de reye. Consultar al médico para la administración a menores de 16 años y a mujeres embarazadas. No administrar en pacientes con: asma, gota, úlcera gastroduodenal, insuficiencia hepática o renal, alergia a los salicilatos; si tiene tratamiento con anticoagulantes o tiene una cirugía dentro de 7 días o si lo toma simultáneamente con alcohol o corticosteroides.uficiencia hepática o renal, alergia a los salicilatos; si tiene tratamiento con anticoagulantes o tiene una cirugía dentro de 7 días o si lo toma simultáneamente con alcohol o corticosteroides.uficiencia hepática o renal, alergia a los salicilatos; si tiene tratamiento con anticoagulantes o tiene una cirugía dentro de 7 días o si lo toma simultáneamente con alcohol o corticosteroides.",
+    "description": "Analgésico que alivia la migraña y sus síntomas. La combinación de ingredientes de aspirina forte, que contiene ácido acetilsalicílico y cafeína, ayuda a aliviar la migraña y sus síntomas, tales como intolerancia a la luz, ruidos, sonidos y náuseas.",
+    "image_url": "/images/catalog/MED-00116.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Aspirina-Forte-X-100-Tabletas/A714COMPRIX100"
+  },
+  {
+    "codigo": "MED-00117",
+    "catalog_type": "medicine",
+    "name": "Dolend 220Mg X 48 Capsulas",
+    "source_name": "Dolend 220Mg X 48 Capsulas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Dolor de cuerpo",
+    "active_ingredient": "Naproxeno Sodico",
+    "formula": [
+      {
+        "ingredient": "Naproxeno Sodico",
+        "amount": "220.00MG"
+      }
+    ],
+    "formula_summary": "Naproxeno Sodico (220.00MG)",
+    "brand": "Dolend",
+    "laboratory": "Fardel",
+    "batch": "LOT-26J37",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 14.54,
+    "previous_price": 16.36,
+    "stock": 18,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Tratamiento sintomático del dolor leve moderado. Estados febriles. Artritis reumatoide, artritis reumatoide juvenil, osteoporosis, episodios agudos de gota, espondilitis anquilosante, síndromes reumatoides, dismenorrea, alteracionesmuscoesqueléticas con dolor e inflamación.muscoesqueléticas con dolor e inflamación.muscoesqueléticas con dolor e inflamación.",
+    "contraindications": "Historial de o con asma, rinitis, urticarias, pólipos nasales, angioedema, colitis ulcerosa.",
+    "description": "Tratamiento sintomático del dolor leve moderado. Estados febriles. Artritis reumatoide, artritis reumatoide juvenil, osteoporosis, episodios agudos de gota, espondilitis anquilosante, síndromes reumatoides, dismenorrea, alteracionesmuscoesqueléticas con dolor e inflamación.muscoesqueléticas con dolor e inflamación.muscoesqueléticas con dolor e inflamación.",
+    "image_url": "/images/catalog/MED-00117.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Dolend-220Mg-X-48-Capsulas/B0000045CAPSULX48"
+  },
+  {
+    "codigo": "MED-00118",
+    "catalog_type": "medicine",
+    "name": "Cetirizina Mk 10Mg X 10 Tabletas",
+    "source_name": "Cetirizina Mk 10Mg X 10 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Cetirizina",
+    "formula": [
+      {
+        "ingredient": "Cetirizina",
+        "amount": "10.00MG"
+      }
+    ],
+    "formula_summary": "Cetirizina (10.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26L38",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Venta Libre",
+    "price": 3.38,
+    "previous_price": 3.73,
+    "stock": 54,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Tratamiento antihistamínico (no sedante).",
+    "contraindications": "Hipersensibilidad al medicamento. Embarazo y lactancia. Insuficiencia renal. En pacientes con insuficiencia renal, la dosis debe ser reducida a la mitad de la recomendada.",
+    "description": "Tratamiento antihistamínico (no sedante).",
+    "image_url": "/images/catalog/MED-00118.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Cetirizina-Mk-10Mg-X-10-Tabletas/A103472TABLETX10"
+  },
+  {
+    "codigo": "MED-00119",
+    "catalog_type": "medicine",
+    "name": "Desloratadina Calox 5Mg X 10 Tabletas",
+    "source_name": "Desloratadina Calox 5Mg X 10 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Desloratadina",
+    "formula": [
+      {
+        "ingredient": "Desloratadina",
+        "amount": "5.00MG"
+      }
+    ],
+    "formula_summary": "Desloratadina (5.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26N39",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 10.12,
+    "previous_price": 12.49,
+    "stock": 72,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Alivio de los síntomas asociados con: rinitis alérgica. Urticaria idiopática crónica.",
+    "contraindications": "Hipersensibilidad a cualquier componente del medicamento. Pueden existir reacciones cruzadas con otros antihistamínicos, por lo que no se recomienda emplear ningún antihistamínico en pacientes que hayan presentado hipersensibilidad a cualquier compuesto del grupo.",
+    "description": "Alivio de los síntomas asociados con: rinitis alérgica. Urticaria idiopática crónica.",
+    "image_url": "/images/catalog/MED-00119.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Desloratadina-Calox-5Mg-X-10-Tabletas/A8647TABLETX10"
+  },
+  {
+    "codigo": "MED-00120",
+    "catalog_type": "medicine",
+    "name": "Cetirizina Calox 10Mg X 30 Tabletas",
+    "source_name": "Cetirizina Calox 10Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Cetirizina",
+    "formula": [
+      {
+        "ingredient": "Cetirizina",
+        "amount": "10.00MG"
+      }
+    ],
+    "formula_summary": "Cetirizina (10.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26Q40",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 14.58,
+    "previous_price": 18.0,
+    "stock": 0,
+    "min_stock": 15,
+    "is_active": false,
+    "indications": "Afecciones alérgicas en general. Dermatitis, prurito, alergia rinosinusal, urticaria, dermatosis alérgicas, picaduras de insectos.",
+    "contraindications": "Hipersensibilidad al fármaco, insuficiencia renal, embarazo, lactancia, niños menores de 2 años.",
+    "description": "Afecciones alérgicas en general. Dermatitis, prurito, alergia rinosinusal, urticaria, dermatosis alérgicas, picaduras de insectos.",
+    "image_url": "/images/catalog/MED-00120.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Cetirizina-Calox-10Mg-X-30-Tabletas/A100554TABLETX30"
+  },
+  {
+    "codigo": "MED-00121",
+    "catalog_type": "medicine",
+    "name": "Fexofenadina Mk 30 Mg/5Ml Frasco X 150 Ml",
+    "source_name": "Fexofenadina Mk 30 Mg/5Ml Frasco X 150 Ml",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Fexofenadina",
+    "formula": [
+      {
+        "ingredient": "Fexofenadina",
+        "amount": "30.00MG"
+      }
+    ],
+    "formula_summary": "Fexofenadina (30.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26S41",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 9.34,
+    "previous_price": 10.98,
+    "stock": 36,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Fexofenadina Mk 30 Mg/5Ml Frasco X 150 Ml",
+    "image_url": "/images/catalog/MED-00121.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Fexofenadina-Mk-30-Mg5Ml-Frasco-X-150-Ml/A104781FRASCOX1"
+  },
+  {
+    "codigo": "MED-00122",
+    "catalog_type": "medicine",
+    "name": "Fexofenadina Mk 120Mg X 10 Tabletas",
+    "source_name": "Fexofenadina Mk 120Mg X 10 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Fexofenadina Clorhidrato",
+    "formula": [
+      {
+        "ingredient": "Fexofenadina clorhidrato",
+        "amount": "120.00MG"
+      }
+    ],
+    "formula_summary": "Fexofenadina clorhidrato (120.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26V42",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Venta Libre",
+    "price": 6.67,
+    "previous_price": 8.23,
+    "stock": 32,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Se usa para aliviar los síntomas de la rinitis alérgica estacional (fiebre del heno), incluyendo secresión nasal; estornudos; enrojecimiento, picazón u ojos acuosos; o picazón de la nariz, la garganta, o el paladar.",
+    "contraindications": "Hipersensibilidad al componente.",
+    "description": "Se usa para aliviar los síntomas de la rinitis alérgica estacional (fiebre del heno), incluyendo secresión nasal; estornudos; enrojecimiento, picazón u ojos acuosos; o picazón de la nariz, la garganta, o el paladar.",
+    "image_url": "/images/catalog/MED-00122.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Fexofenadina-Mk-120Mg-X-10-Tabletas/A108759TABLETX10"
+  },
+  {
+    "codigo": "MED-00123",
+    "catalog_type": "medicine",
+    "name": "Ciprofloxacina Mk 500Mg X 30 Tabletas",
+    "source_name": "Ciprofloxacina Mk 500Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Ciprofloxacina",
+    "formula": [
+      {
+        "ingredient": "Ciprofloxacina",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Ciprofloxacina (500.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26X43",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 38.11,
+    "previous_price": 45.91,
+    "stock": 18,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Infecciones de la vias respiratorias, infecciones del tracto genito urinario, infecciones grastrointestinales , infecciones osteoarticulares, infecciones de la piel y tejidos blandos, quemaduras infectadas, infecciones de las vias biliares, infecciones intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.es intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.es intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.",
+    "contraindications": "Hipersensibilidad a la ciprofloxacina, embarazo, lactancia y niños. Adminístrese con precaución en pacientes con trastornos cerebrales. Evítese la administración concomitante con antiácidos o teofilina.",
+    "description": "Infecciones de la vias respiratorias, infecciones del tracto genito urinario, infecciones grastrointestinales , infecciones osteoarticulares, infecciones de la piel y tejidos blandos, quemaduras infectadas, infecciones de las vias biliares, infecciones intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.es intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.es intraabdominales, infecciones pelvicas, infecciones otorrinolaringologas, gonorrea.",
+    "image_url": "/images/catalog/MED-00123.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Ciprofloxacina-Mk-500Mg-X-30-Tabletas/A1690TABLETX30"
+  },
+  {
+    "codigo": "MED-00124",
+    "catalog_type": "medicine",
+    "name": "Ciprofloxacina Calox 500Mg X 30 Tabletas",
+    "source_name": "Ciprofloxacina Calox 500Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Ciprofloxacina",
+    "formula": [
+      {
+        "ingredient": "Ciprofloxacina",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Ciprofloxacina (500.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26Z44",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 37.19,
+    "previous_price": 45.91,
+    "stock": 54,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Infecciones de las vías respiratorias superiores,infecciones del oído, nariz y garganta, como otitis media, sinusitis, amigdalitis y faringitis. Infecciones de las vías respiratorias inferiores, neumonía, bronquitis aguda, y exacerbaciones agudas debronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.bronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.bronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.",
+    "contraindications": "Ciprofloxacina calox está contraindicada en casos de hipersensibilidad conocida o sospechada al ciprofloxacino o a otras quinolonas, o a cualquiera de los excipientes. La administración concomitante de ciprofloxacino y tizanidina está contraindicadadebido a que puede ocurrir incremento no deseable en las concentraciones plasmáticas de tizanidina asociado a incremento clínicamente relevante de las reacciones adversas inducidas por esta misma (hipotensión y somnolencia).debido a que puede ocurrir incremento no deseable en las concentraciones plasmáticas de tizanidina asociado a incremento clínicamente relevante de las reacciones adversas inducidas por esta misma (hipotensión y somnolencia).debido a que puede ocurrir incremento no deseable en las concentraciones plasmáticas de tizanidina asociado a incremento clínicamente relevante de las reacciones adversas inducidas por esta misma (hipotensión y somnolencia).",
+    "description": "Infecciones de las vías respiratorias superiores,infecciones del oído, nariz y garganta, como otitis media, sinusitis, amigdalitis y faringitis. Infecciones de las vías respiratorias inferiores, neumonía, bronquitis aguda, y exacerbaciones agudas debronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.bronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.bronquitis crónica. Infecciones de las vías genitourinarias ,pielonefritis, cistitis y uretritis. Gonorrea, uretritis gonocócica aguda no complicada, y cervicitis. Infecciones de la piel y tejidos blandos, furunculosis, pioderma e impétigo.",
+    "image_url": "/images/catalog/MED-00124.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Ciprofloxacina-Calox-500Mg-X-30-Tabletas/A1689TABLETX30"
+  },
+  {
+    "codigo": "MED-00125",
+    "catalog_type": "medicine",
+    "name": "Claritisil 2.5Mg Jarabe Frasco 60Ml(Desloratadina)",
+    "source_name": "Claritisil 2.5Mg Jarabe Frasco 60Ml(Desloratadina)",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antialergicos",
+    "active_ingredient": "Desloratadina",
+    "formula": [
+      {
+        "ingredient": "Desloratadina",
+        "amount": "2.50MG"
+      }
+    ],
+    "formula_summary": "Desloratadina (2.50MG)",
+    "brand": "Claritisil",
+    "laboratory": "Laboratorios Suizos",
+    "batch": "LOT-26B45",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 7.71,
+    "previous_price": 9.52,
+    "stock": 72,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Indicado para el alivio de los síntomas asociados con rinitis alérgica, estornudos frecuentes, secreción nasal, picazón nasal y ardor ocular. También en casos de urticaria aguda o crónica, alergias cutáneas y respiratorias.",
+    "contraindications": "Hipersensibilidad, incluida a loratadina. Precaución en Insuficiencia Renal severa. Su uso se encuentra contraindicado en el embarazo. Lactancia niños menores de 2 años.",
+    "description": "Indicado para el alivio de los síntomas asociados con rinitis alérgica, estornudos frecuentes, secreción nasal, picazón nasal y ardor ocular. También en casos de urticaria aguda o crónica, alergias cutáneas y respiratorias.",
+    "image_url": "/images/catalog/MED-00125.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Claritisil-25Mg-Jarabe-Frasco-60MlDesloratadina/A1733FRASCOX1"
+  },
+  {
+    "codigo": "MED-00126",
+    "catalog_type": "medicine",
+    "name": "Levosil 500Mg X 10 Tabletas (Levofloxacina)",
+    "source_name": "Levosil 500Mg X 10 Tabletas (Levofloxacina)",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Levofloxacino",
+    "formula": [
+      {
+        "ingredient": "Levofloxacino",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Levofloxacino (500.00MG)",
+    "brand": "Levosil",
+    "laboratory": "Laboratorios Suizos",
+    "batch": "LOT-26D46",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Con Receta",
+    "price": 30.97,
+    "previous_price": 38.24,
+    "stock": 0,
+    "min_stock": 15,
+    "is_active": false,
+    "indications": "Indicado para el tratamiento de adultos (mayores de 18 años de edad) con infecciones leves, moderadas y severas causadas por microorganismos susceptibles a levofloxacino. Sinusitis maxilar aguda. Exacerbación bacteriana aguda de la bronquitis crónica. Neumonía adquirida en la comunidad. Infecciones no complicadas de la piel y tejido blando (de leves a moderadas). Infecciones complicadas de las vías urinarias (leves a moderadas). Pielonefritis aguda (leve a moderada). Infecciones no complicadas de las vías urinarias (leves a moderadas). Neumonía adquirida en la comunidad. Infecciones no complicadas de la piel y tejido blando (de leves a moderadas). Infecciones complicadas de las vías urinarias (leves a moderadas). Pielonefritis aguda (leve a moderada). Infecciones no complicadas de las vías urinarias (leves a moderadas).e las vías urinarias (leves a moderadas).",
+    "contraindications": "Hipersensibilidad al componente o a otras quinolonas. Embarazo y lactancia.",
+    "description": "Indicado para el tratamiento de adultos (mayores de 18 años de edad) con infecciones leves, moderadas y severas causadas por microorganismos susceptibles a levofloxacino. Sinusitis maxilar aguda. Exacerbación bacteriana aguda de la bronquitis crónica. Neumonía adquirida en la comunidad. Infecciones no complicadas de la piel y tejido blando (de leves a moderadas). Infecciones complicadas de las vías urinarias (leves a moderadas). Pielonefritis aguda (leve a moderada). Infecciones no complicadas de las vías urinarias (leves a moderadas). Neumonía adquirida en la comunidad. Infecciones no complicadas de la piel y tejido blando (de leves a moderadas). Infecciones complicadas de las vías urinarias (leves a moderadas). Pielonefritis aguda (leve a moderada). Infecciones no complicadas de las vías urinarias (leves a moderadas).e las vías urinarias (leves a moderadas).",
+    "image_url": "/images/catalog/MED-00126.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Levosil-500Mg-X-10-Tabletas-Levofloxacina/A8568TABLETX10"
+  },
+  {
+    "codigo": "MED-00127",
+    "catalog_type": "medicine",
+    "name": "Amoxicilina-Acido Clavulanico Calox Suspension 70M",
+    "source_name": "Amoxicilina-Acido Clavulanico Calox Suspension 70M",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Amoxicilina",
+    "formula": [
+      {
+        "ingredient": "Amoxicilina",
+        "amount": "400.00MG"
+      },
+      {
+        "ingredient": "Acido Clavulinico",
+        "amount": "57.00MG"
+      }
+    ],
+    "formula_summary": "Amoxicilina (400.00MG), Acido Clavulinico (57.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26F47",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 14.52,
+    "previous_price": 17.92,
+    "stock": 36,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Indicado en infecciones del tracto respiratorio alto y bajo, otitis media, sinusitis, faringoamigdalitis de repetición, bronquitis y neumonía. En infecciones del tracto urinario, cistitis, uretritis y pielonefritis, así como en infecciones de tejidosblandos y piel, causadas por gérmenes grampositivos y negativos tanto aerobios como anaero bios.",
+    "contraindications": "Hipersensibilidad al componente. Embarazo y lactancia.",
+    "description": "Indicado en infecciones del tracto respiratorio alto y bajo, otitis media, sinusitis, faringoamigdalitis de repetición, bronquitis y neumonía. En infecciones del tracto urinario, cistitis, uretritis y pielonefritis, así como en infecciones de tejidosblandos y piel, causadas por gérmenes grampositivos y negativos tanto aerobios como anaero bios.",
+    "image_url": "/images/catalog/MED-00127.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Amoxicilina-Acido-Clavulanico-Calox-Suspension-70M/A108654FRASCOX1"
+  },
+  {
+    "codigo": "MED-00128",
+    "catalog_type": "medicine",
+    "name": "Amoxicilina+Clavulanico Calox 875/125 X14 Tabletas",
+    "source_name": "Amoxicilina+Clavulanico Calox 875/125 X14 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Amoxicilina",
+    "formula": [
+      {
+        "ingredient": "Amoxicilina",
+        "amount": "875.00MG"
+      },
+      {
+        "ingredient": "Acido Clavulinico",
+        "amount": "125.00MG"
+      }
+    ],
+    "formula_summary": "Amoxicilina (875.00MG), Acido Clavulinico (125.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26H48",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 21.24,
+    "previous_price": 26.22,
+    "stock": 32,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Infecciones respiratorias y urinarias. Infecciones del tracto respiratorio superior: amigdalitis recurrente sinusitis otitis media. Infecciones del tracto respiratorio inferior bronquitis aguda exacerbaciones agudas de bronquitis crónica neumonía lobar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.ar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.ar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.",
+    "contraindications": "Si es alérgico (hipersensible) a este principio activo o a cualquiera de los demás componentes de la especialidad farmacéutica que le han recetado. Si cree que puede ser alérgico, consulte a su médico.",
+    "description": "Infecciones respiratorias y urinarias. Infecciones del tracto respiratorio superior: amigdalitis recurrente sinusitis otitis media. Infecciones del tracto respiratorio inferior bronquitis aguda exacerbaciones agudas de bronquitis crónica neumonía lobar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.ar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.ar y bronconeumonía. Infecciones del tracto genitourinario cistitis uretritis pielonefritis. Infecciones de la piel.",
+    "image_url": "/images/catalog/MED-00128.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/AmoxicilinaClavulanico-Calox-875125-X14-Tabletas/A102687TABLETX14"
+  },
+  {
+    "codigo": "MED-00129",
+    "catalog_type": "medicine",
+    "name": "Enalapril Mk 20Mg X 30 Tabletas",
+    "source_name": "Enalapril Mk 20Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antihipertensivo",
+    "active_ingredient": "Enalapril",
+    "formula": [
+      {
+        "ingredient": "Enalapril",
+        "amount": "20.00MG"
+      }
+    ],
+    "formula_summary": "Enalapril (20.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26K49",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 9.34,
+    "previous_price": 10.86,
+    "stock": 18,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Enalapril Mk 20Mg X 30 Tabletas",
+    "image_url": "/images/catalog/MED-00129.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Enalapril-Mk-20Mg-X-30-Tabletas/A100999TABLETX30"
+  },
+  {
+    "codigo": "MED-00130",
+    "catalog_type": "medicine",
+    "name": "Enalapril Ecomed 20Mg X 100 Tabletas",
+    "source_name": "Enalapril Ecomed 20Mg X 100 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antihipertensivo",
+    "active_ingredient": "Enalapril",
+    "formula": [
+      {
+        "ingredient": "Enalapril",
+        "amount": "20.00MG"
+      }
+    ],
+    "formula_summary": "Enalapril (20.00MG)",
+    "brand": "Genericos Ecomed",
+    "laboratory": "Ecomed",
+    "batch": "LOT-26M50",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Con Receta",
+    "price": 16.2,
+    "previous_price": 20.0,
+    "stock": 54,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Tratar la insuficiencia cardíaca debilitamiento de la función del corazón sintomática.",
+    "contraindications": "Si es alérgico,Si le han diagnosticado angioedema. Si tiene diabetes o insuficiencia renal y le están tratando con un medicamento para bajar la presión arterial que contiene aliskirén. Si está embarazada de más de 3 meses. También es mejor evitarenalapril al principio del embarazolapril al principio del embarazolapril al principio del embarazo.",
+    "description": "Tratar la insuficiencia cardíaca debilitamiento de la función del corazón sintomática.",
+    "image_url": "/images/catalog/MED-00130.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Enalapril-Ecomed-20Mg-X-100-Tabletas/A2736TABLETX100"
+  },
+  {
+    "codigo": "MED-00131",
+    "catalog_type": "medicine",
+    "name": "CEFADROXILO MK 250MG/5ML SUSPENSION 60ML",
+    "source_name": "CEFADROXILO MK 250MG/5ML SUSPENSION 60ML",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Cefadroxilo",
+    "formula": [
+      {
+        "ingredient": "Cefadroxilo",
+        "amount": "250.00MG"
+      }
+    ],
+    "formula_summary": "Cefadroxilo (250.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26P51",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 6.98,
+    "previous_price": 8.62,
+    "stock": 72,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Faringitis y amigdalitis estreptocócica. Bronconeumonía, neumonía bacteriana. Infecciones de las vías urinarias sin complicaciones: pielonefritis, cistitis. Infecciones de la piel y los tejidos blandos: abscesos, forunculosis, impétigo, erisipela, pioderma, linfadenitis.",
+    "contraindications": "Si ha presentado síntomas de alergia a cefadroxilo o a otros antibióticos.",
+    "description": "Faringitis y amigdalitis estreptocócica. Bronconeumonía, neumonía bacteriana. Infecciones de las vías urinarias sin complicaciones: pielonefritis, cistitis. Infecciones de la piel y los tejidos blandos: abscesos, forunculosis, impétigo, erisipela, pioderma, linfadenitis.",
+    "image_url": "/images/catalog/MED-00131.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/CEFADROXILO-MK-250MG5ML-SUSPENSION-60ML/A1498FRASCOX1"
+  },
+  {
+    "codigo": "MED-00132",
+    "catalog_type": "medicine",
+    "name": "Cefadroxilo Mk 500Mg X 30 Capsulas",
+    "source_name": "Cefadroxilo Mk 500Mg X 30 Capsulas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antibiotico orales",
+    "active_ingredient": "Cefadroxilo",
+    "formula": [
+      {
+        "ingredient": "Cefadroxilo",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Cefadroxilo (500.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26R52",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 19.16,
+    "previous_price": 23.66,
+    "stock": 0,
+    "min_stock": 15,
+    "is_active": false,
+    "indications": "Indicado en el tratamiento de infecciones del aparato respiratorio, infecciones de la piel y del tejido subcutáneo, infecciones del aparato genitourinario. Osteomielitis, artritis séptica, septicemia, peritonitis, sepsis puerperal, si la administración oral está indicada. Infecciones bucales.ón oral está indicada. Infecciones bucales.",
+    "contraindications": "Hipersensibilidad al componente. Embarazo y lactancia.",
+    "description": "Indicado en el tratamiento de infecciones del aparato respiratorio, infecciones de la piel y del tejido subcutáneo, infecciones del aparato genitourinario. Osteomielitis, artritis séptica, septicemia, peritonitis, sepsis puerperal, si la administración oral está indicada. Infecciones bucales.ón oral está indicada. Infecciones bucales.",
+    "image_url": "/images/catalog/MED-00132.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Cefadroxilo-Mk-500Mg-X-30-Capsulas/A1499TABLETX30"
+  },
+  {
+    "codigo": "MED-00133",
+    "catalog_type": "medicine",
+    "name": "Amlodipina Calox 5Mg X 30 Tabletas",
+    "source_name": "Amlodipina Calox 5Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Antihipertensivo",
+    "active_ingredient": "Amlodipino",
+    "formula": [
+      {
+        "ingredient": "Amlodipino",
+        "amount": "5.00MG"
+      }
+    ],
+    "formula_summary": "Amlodipino (5.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26T53",
+    "expiry": "Ene 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 12.33,
+    "previous_price": 15.22,
+    "stock": 36,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Está indicado en el tratamiento de la hipertensión arterial: isquemia miocárdica, producida por obstrucción vascular coronaria (angina estable) o por vasoespasmo/vasoconstricción (angina variante).",
+    "contraindications": "Está contraindicado en pacientes con sensibilidad conocida a las dihidropiridinas.",
+    "description": "Está indicado en el tratamiento de la hipertensión arterial: isquemia miocárdica, producida por obstrucción vascular coronaria (angina estable) o por vasoespasmo/vasoconstricción (angina variante).",
+    "image_url": "/images/catalog/MED-00133.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Amlodipina-Calox-5Mg-X-30-Tabletas/A476TABLETX30"
+  },
+  {
+    "codigo": "MED-00134",
+    "catalog_type": "medicine",
+    "name": "Atorvastatina Calox 20 Mg X 30 Tabletas",
+    "source_name": "Atorvastatina Calox 20 Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Colesterol y trigliceridos",
+    "active_ingredient": "Atorvastatina",
+    "formula": [
+      {
+        "ingredient": "Atorvastatina",
+        "amount": "20.00MG"
+      }
+    ],
+    "formula_summary": "Atorvastatina (20.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26W54",
+    "expiry": "Dic 2026",
+    "expiry_status": "Por Vencer",
+    "prescription": "Con Receta",
+    "price": 32.83,
+    "previous_price": 40.53,
+    "stock": 32,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Como complemento de la dieta para el tratamiento de pacientes con niveles elevados de colesterol total, ldl colesterol y necesidad de aumento de hdl.",
+    "contraindications": "Hipersensibilidad al fármaco, enfermedad hepática activa, embarazo y lactancia.",
+    "description": "Como complemento de la dieta para el tratamiento de pacientes con niveles elevados de colesterol total, ldl colesterol y necesidad de aumento de hdl.",
+    "image_url": "/images/catalog/MED-00134.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Atorvastatina-Calox-20-Mg-X-30-Tabletas/A108260TABLETX30"
+  },
+  {
+    "codigo": "MED-00135",
+    "catalog_type": "medicine",
+    "name": "Atorvastatina Calox 40Mg X 30 Tabletas",
+    "source_name": "Atorvastatina Calox 40Mg X 30 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Colesterol y trigliceridos",
+    "active_ingredient": "Atorvastatina",
+    "formula": [
+      {
+        "ingredient": "Atorvastatina",
+        "amount": "40.00MG"
+      }
+    ],
+    "formula_summary": "Atorvastatina (40.00MG)",
+    "brand": "Genericos Calox",
+    "laboratory": "Calox",
+    "batch": "LOT-26Y55",
+    "expiry": "Abr 2028",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 45.89,
+    "previous_price": 56.65,
+    "stock": 18,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "La atorvastatina es un fármaco de la familia de las estatinas utilizado para disminuir los niveles de colesterol en sangre y en la prevención de enfermedades cardiovasculares.",
+    "contraindications": "Atorvastatina está contraindicada en pacientes que tienen: hipersensibilidad a cualquier componente de este medicamento; enfermedad hepática activa o elevaciones persistentes inexplicables de transaminasas séricas que excedan tres veces el límite superior de lo normal o mujeres embarazadas, lactando, o con potencial reproductivo que no estén tomando medidas anticonceptivas adecuadas. Atorvastatina debe administrarse a mujeres en edad reproductiva sólo cuando sea altamente improbable que dichas pacientes conciban y han sido informadas de las amenazas potenciales para el feto.",
+    "description": "La atorvastatina es un fármaco de la familia de las estatinas utilizado para disminuir los niveles de colesterol en sangre y en la prevención de enfermedades cardiovasculares.",
+    "image_url": "/images/catalog/MED-00135.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Atorvastatina-Calox-40Mg-X-30-Tabletas/A8604TABLETX30"
+  },
+  {
+    "codigo": "MED-00136",
+    "catalog_type": "medicine",
+    "name": "Rosuvastatina Mk 40Mg X 28 Tabletas",
+    "source_name": "Rosuvastatina Mk 40Mg X 28 Tabletas",
+    "category": "Medicamentos",
+    "san_nicolas_category": "Colesterol y trigliceridos",
+    "active_ingredient": "Rosuvastatina",
+    "formula": [
+      {
+        "ingredient": "Rosuvastatina",
+        "amount": "40.00MG"
+      }
+    ],
+    "formula_summary": "Rosuvastatina (40.00MG)",
+    "brand": "Genericos Mk",
+    "laboratory": "Tecnoquimicas",
+    "batch": "LOT-26A56",
+    "expiry": "Ago 2027",
+    "expiry_status": "Vigente",
+    "prescription": "Con Receta",
+    "price": 57.33,
+    "previous_price": 69.07,
+    "stock": 54,
+    "min_stock": 15,
+    "is_active": true,
+    "indications": "Indicado para corregir los niveles de subtancias grasas en la sangre llamados lipidos siendo el más conocido el colesterol.",
+    "contraindications": "Ontra indicado en insuficiencia hepática severa. Embarazo y lactancia. Asociación con otro fibrato. Hipersensibilidad al principio activo o alguno de los componentes de la fórmula. Para la forma farmacéutica tabletas; debido a que contiene lactosa ensu formulación, este medicamento está contraindicado en pacientes con deficiencia de lactasa, galactosemia o síndrome de malabsorción de glucosa y galactosa. Insuficiencia renal grave y aguda.su formulación, este medicamento está contraindicado en pacientes con deficiencia de lactasa, galactosemia o síndrome de malabsorción de glucosa y galactosa. Insuficiencia renal grave y aguda.",
+    "description": "Indicado para corregir los niveles de subtancias grasas en la sangre llamados lipidos siendo el más conocido el colesterol.",
+    "image_url": "/images/catalog/MED-00136.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Rosuvastatina-Mk-40Mg-X-28-Tabletas/A103745TABLETX28"
+  },
+  {
+    "codigo": "PER-00414",
+    "catalog_type": "product",
+    "name": "Listerine Anticaries Zero Alcohol 500Ml",
+    "source_name": "Listerine Anticaries Zero Alcohol 500Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Enjuages orales",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Listerine",
+    "laboratory": "Listerine",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 12.01,
+    "previous_price": null,
+    "stock": 14,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Listerine Anticaries Zero Alcohol 500Ml",
+    "image_url": "/images/catalog/PER-00414.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Listerine-Anticaries-Zero-Alcohol-500Ml/B0001690UNIDADX1"
+  },
+  {
+    "codigo": "PER-00415",
+    "catalog_type": "product",
+    "name": "Sensodyne Cepillo Precision",
+    "source_name": "Sensodyne Cepillo Precision",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Tratamientos odontologicos",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Accesorio Odontologico",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Accesorio Odontologico (0.00)",
+    "brand": "Sensodyne",
+    "laboratory": "GlaxoSmithKline",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 3.99,
+    "previous_price": 4.64,
+    "stock": 29,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Especificamente diseñado para personas con dientes sensibles. Especialmente diseñados para limpiar suavemente los dientes y ser suave con las encías.",
+    "contraindications": "",
+    "description": "Especificamente diseñado para personas con dientes sensibles. Especialmente diseñados para limpiar suavemente los dientes y ser suave con las encías.",
+    "image_url": "/images/catalog/PER-00415.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Sensodyne-Cepillo-Precision/A6932UNIDADX1"
+  },
+  {
+    "codigo": "PER-00416",
+    "catalog_type": "product",
+    "name": "Listerine Original 500Ml",
+    "source_name": "Listerine Original 500Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Enjuages orales",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Accesorio Odontologico",
+        "amount": "0.00"
+      }
+    ],
+    "formula_summary": "Accesorio Odontologico (0.00)",
+    "brand": "Listerine",
+    "laboratory": "Listerine",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 7.03,
+    "previous_price": 10.81,
+    "stock": 41,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Listerine Original 500Ml",
+    "image_url": "/images/catalog/PER-00416.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Listerine-Original-500Ml/A4623UNIDADX1"
+  },
+  {
+    "codigo": "PER-00417",
+    "catalog_type": "product",
+    "name": "Crema Dental Colgate Total Original Mnt 75Ml",
+    "source_name": "Crema Dental Colgate Total Original Mnt 75Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Cremas dentales",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Accesorio Odontologico",
+        "amount": "0.00UI"
+      }
+    ],
+    "formula_summary": "Accesorio Odontologico (0.00UI)",
+    "brand": "Colgate",
+    "laboratory": "Colgate-Palmolive",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 3.32,
+    "previous_price": null,
+    "stock": 48,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Cepille adecuadamente los dientes después de cada comida, tres veces al día o según la recomendación de su odontólogo. Enjuague completamente después del cepillado.",
+    "contraindications": "Recomendada para mayores de 6 años. En niños de 6 años o menores, usar una cantidad de 0.25 g bajo supervisión adulta. Si recibe flúor de otras fuentes, consulte a un odontólogo o médico. No ingerir. Producto sin acción terapéutica.",
+    "description": "Cepille adecuadamente los dientes después de cada comida, tres veces al día o según la recomendación de su odontólogo. Enjuague completamente después del cepillado.",
+    "image_url": "/images/catalog/PER-00417.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Crema-Dental-Colgate-Total-Original-Mnt-75Ml/A1924UNIDADX1"
+  },
+  {
+    "codigo": "PER-00418",
+    "catalog_type": "product",
+    "name": "Enjuague Colgate Total 12 Anti Sarro 500Ml",
+    "source_name": "Enjuague Colgate Total 12 Anti Sarro 500Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Enjuages orales",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [],
+    "formula_summary": "",
+    "brand": "Colgate",
+    "laboratory": "Colgate-Palmolive",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 7.64,
+    "previous_price": 8.99,
+    "stock": 65,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "El enjuague bucal Colgate Total Anti-Sarro con su exquisito sabor a menta, está elaborado a base de ingredientes de alta eficiencia que te permiten remover los residuos de comida que permanecen en tu boca.",
+    "image_url": "/images/catalog/PER-00418.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Enjuague-Colgate-Total-12-Anti-Sarro-500Ml/B0000526UNIDADX1"
+  },
+  {
+    "codigo": "PER-00419",
+    "catalog_type": "product",
+    "name": "Nivea Desodorante Spray Aclarado Natural 150Ml",
+    "source_name": "Nivea Desodorante Spray Aclarado Natural 150Ml",
+    "category": "Cuidado Personal",
+    "san_nicolas_category": "Desodorantes",
+    "active_ingredient": "Cuidado Personal",
+    "formula": [
+      {
+        "ingredient": "Dermatologico",
+        "amount": "0.00UI"
+      }
+    ],
+    "formula_summary": "Dermatologico (0.00UI)",
+    "brand": "Nivea",
+    "laboratory": "Nivea",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 5.33,
+    "previous_price": 6.2,
+    "stock": 24,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "Contiene propiedades que aclaran y protegen la piel de las axilas, dejándolas suaves y lisas-con perla hidrolizada, regaliz y vitamina C Sin Colorantes ni Conservantes .",
+    "image_url": "/images/catalog/PER-00419.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Nivea-Desodorante-Spray-Aclarado-Natural-150Ml/A5377UNIDADX1"
+  },
+  {
+    "codigo": "VIT-00311",
+    "catalog_type": "product",
+    "name": "Pharmaton Geriatric 50+ X 90 Capsulas",
+    "source_name": "Pharmaton Geriatric 50+ X 90 Capsulas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Fuerza y energia",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Vitamina B2",
+        "amount": "1.30MG"
+      },
+      {
+        "ingredient": "Vitamina E",
+        "amount": "10.00MG"
+      },
+      {
+        "ingredient": "Folacina",
+        "amount": "0.24MG"
+      },
+      {
+        "ingredient": "Sulfato de Zinc",
+        "amount": "3.50MG"
+      },
+      {
+        "ingredient": "Vitamina C",
+        "amount": "45.00MG"
+      },
+      {
+        "ingredient": "Vitamina B6",
+        "amount": "1.30MG"
+      },
+      {
+        "ingredient": "Omega 3",
+        "amount": "67.50MG"
+      },
+      {
+        "ingredient": "Fumarato Ferroso",
+        "amount": "7.00MG"
+      }
+    ],
+    "formula_summary": "Vitamina B2 (1.30MG), Vitamina E (10.00MG), Folacina (0.24MG), Sulfato de Zinc (3.50MG), Vitamina C (45.00MG), Vitamina B6 (1.30MG), Omega 3 (67.50MG), Fumarato Ferroso (7.00MG)",
+    "brand": "Pharmaton",
+    "laboratory": "Sanofi",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 48.23,
+    "previous_price": 59.54,
+    "stock": 36,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Contribuye al funcionamiento normal del sistema inmunitario y del corazón,ayuda a mantener saludable el cerebro, la vista y los huesos, ayuda a obtener energía para hacer frente con éxito a los desafíos del día a día después de los 50 años.",
+    "contraindications": "Hipersensibilidad a alguno de los componentes de su formula.",
+    "description": "Contribuye al funcionamiento normal del sistema inmunitario y del corazón,ayuda a mantener saludable el cerebro, la vista y los huesos, ayuda a obtener energía para hacer frente con éxito a los desafíos del día a día después de los 50 años.",
+    "image_url": "/images/catalog/VIT-00311.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Pharmaton-Geriatric-50-X-90-Capsulas/A103957CAPSULX90"
+  },
+  {
+    "codigo": "VIT-00312",
+    "catalog_type": "product",
+    "name": "Neurobion Advance X 30 Tabletas",
+    "source_name": "Neurobion Advance X 30 Tabletas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Sistema nervioso",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Vitamina B12",
+        "amount": "1000.00MCG"
+      },
+      {
+        "ingredient": "Vitamina B6",
+        "amount": "50.00MG"
+      },
+      {
+        "ingredient": "Vitamina B1",
+        "amount": "100.00MG"
+      }
+    ],
+    "formula_summary": "Vitamina B12 (1000.00MCG), Vitamina B6 (50.00MG), Vitamina B1 (100.00MG)",
+    "brand": "Neurobion",
+    "laboratory": "Procter & Gamble",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 12.16,
+    "previous_price": 17.37,
+    "stock": 32,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Prevención de estados carenciales de los componentes de la fórmula debido al incremento de las necesidades, reducción del consumo o reducción de la absorción, que podrían manifestarse en estados de convalecencia o dietas insuficientes.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Prevención de estados carenciales de los componentes de la fórmula debido al incremento de las necesidades, reducción del consumo o reducción de la absorción, que podrían manifestarse en estados de convalecencia o dietas insuficientes.",
+    "image_url": "/images/catalog/VIT-00312.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Neurobion-Advance-X-30-Tabletas/B0003662TABLETX30"
+  },
+  {
+    "codigo": "VIT-00313",
+    "catalog_type": "product",
+    "name": "NEUROBION N X 30 TABLETAS",
+    "source_name": "NEUROBION N X 30 TABLETAS",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Sistema nervioso",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Vitamina B6",
+        "amount": "200.00MG"
+      },
+      {
+        "ingredient": "Vitamina B1",
+        "amount": "100.00MG"
+      }
+    ],
+    "formula_summary": "Vitamina B6 (200.00MG), Vitamina B1 (100.00MG)",
+    "brand": "Procter & Gamble",
+    "laboratory": "Procter & Gamble",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 10.47,
+    "previous_price": 12.6,
+    "stock": 18,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "",
+    "contraindications": "",
+    "description": "NEUROBION N X 30 TABLETAS",
+    "image_url": "/images/catalog/VIT-00313.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/NEUROBION-N-X-30-TABLETAS/A110692TABLETX30"
+  },
+  {
+    "codigo": "VIT-00314",
+    "catalog_type": "product",
+    "name": "Citrato de Magnesio Natures Garden X 60 Tabletas",
+    "source_name": "Citrato de Magnesio Natures Garden X 60 Tabletas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Fuerza y energia",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Citrato de Magnesio",
+        "amount": "200.00MG"
+      }
+    ],
+    "formula_summary": "Citrato de Magnesio (200.00MG)",
+    "brand": "Nature's Garden",
+    "laboratory": "Nature's Garden",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 17.2,
+    "previous_price": 20.0,
+    "stock": 54,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Ayuda en el metabolismo energético y la formación de tejidos, ayuda a mantener la capacidad del cuerpo para metabolizar los nutrientes.",
+    "contraindications": "Hipersensibilidad al componente. Personas con oxaluria, pacientes con problema de absorción de glucosa o galactosa, galactosemia o insuficiencia de lactasa.",
+    "description": "Ayuda en el metabolismo energético y la formación de tejidos, ayuda a mantener la capacidad del cuerpo para metabolizar los nutrientes.",
+    "image_url": "/images/catalog/VIT-00314.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Citrato-de-Magnesio-Natures-Garden-X-60-Tabletas/B0002245TABLETX60"
+  },
+  {
+    "codigo": "VIT-00315",
+    "catalog_type": "product",
+    "name": "Centrum Silver X 30 Tabletas",
+    "source_name": "Centrum Silver X 30 Tabletas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Fuerza y energia",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Carbonato de Calcio",
+        "amount": "342.00MG"
+      },
+      {
+        "ingredient": "Vitamina E",
+        "amount": "45.00UI"
+      },
+      {
+        "ingredient": "Vitamina D2",
+        "amount": "400.00UI"
+      },
+      {
+        "ingredient": "Vitamina A",
+        "amount": "2410.00UI"
+      },
+      {
+        "ingredient": "Vitamina C",
+        "amount": "60.00MG"
+      },
+      {
+        "ingredient": "Luteina",
+        "amount": "250.00MCG"
+      },
+      {
+        "ingredient": "Cloruro de Potasio",
+        "amount": "150.00MG"
+      },
+      {
+        "ingredient": "Vitamina B12",
+        "amount": "25.00MCG"
+      },
+      {
+        "ingredient": "Vitamina B6",
+        "amount": "3.00MG"
+      },
+      {
+        "ingredient": "Vitamina B1",
+        "amount": "1.50MG"
+      }
+    ],
+    "formula_summary": "Carbonato de Calcio (342.00MG), Vitamina E (45.00UI), Vitamina D2 (400.00UI), Vitamina A (2410.00UI), Vitamina C (60.00MG), Luteina (250.00MCG), Cloruro de Potasio (150.00MG), Vitamina B12 (25.00MCG), Vitamina B6 (3.00MG), Vitamina B1 (1.50MG)",
+    "brand": "Centrum",
+    "laboratory": "GlaxoSmithKline",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 13.17,
+    "previous_price": 15.7,
+    "stock": 72,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Indicado para deficit de vitaminas y minerales, especialmente formulado para adultos mayores de 50 años.",
+    "contraindications": "HIPERSENSIBILIDAD A CUALQUIERA DE LOS COMPONENTES.",
+    "description": "Indicado para deficit de vitaminas y minerales, especialmente formulado para adultos mayores de 50 años.",
+    "image_url": "/images/catalog/VIT-00315.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Centrum-Silver-X-30-Tabletas/A1532TABLETX30"
+  },
+  {
+    "codigo": "VIT-00316",
+    "catalog_type": "product",
+    "name": "Centrum X 30 Tabletas",
+    "source_name": "Centrum X 30 Tabletas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Fuerza y energia",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Hierro",
+        "amount": "10.00MG"
+      },
+      {
+        "ingredient": "Zinc",
+        "amount": "7.50MG"
+      },
+      {
+        "ingredient": "Vitamina C",
+        "amount": "90.00MG"
+      },
+      {
+        "ingredient": "Lycopeno",
+        "amount": "600.00MCG"
+      },
+      {
+        "ingredient": "Luteina",
+        "amount": "500.00MCG"
+      },
+      {
+        "ingredient": "Calcio",
+        "amount": "200.00MG"
+      },
+      {
+        "ingredient": "Potasio",
+        "amount": "80.00MG"
+      },
+      {
+        "ingredient": "Magnesio",
+        "amount": "5.00MG"
+      }
+    ],
+    "formula_summary": "Hierro (10.00MG), Zinc (7.50MG), Vitamina C (90.00MG), Lycopeno (600.00MCG), Luteina (500.00MCG), Calcio (200.00MG), Potasio (80.00MG), Magnesio (5.00MG)",
+    "brand": "Centrum",
+    "laboratory": "GlaxoSmithKline",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 10.99,
+    "previous_price": 13.39,
+    "stock": 0,
+    "min_stock": 12,
+    "is_active": false,
+    "indications": "Indicado para deficit de vitaminas y minerales.",
+    "contraindications": "HIPERSENSIBILIDAD A CUALQUIERA DE LOS COMPONENTES.",
+    "description": "Indicado para deficit de vitaminas y minerales.",
+    "image_url": "/images/catalog/VIT-00316.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Centrum-X-30-Tabletas/A1528UNIDADX30"
+  },
+  {
+    "codigo": "VIT-00317",
+    "catalog_type": "product",
+    "name": "Vitasil Omega-3 Fuerte X 50 Capsulas",
+    "source_name": "Vitasil Omega-3 Fuerte X 50 Capsulas",
+    "category": "Vitaminas",
+    "san_nicolas_category": "Colesterol y trigliceridos",
+    "active_ingredient": "Vitaminas",
+    "formula": [
+      {
+        "ingredient": "Vitamina E",
+        "amount": "10.00UI"
+      },
+      {
+        "ingredient": "Aceite de Ajo",
+        "amount": "2.00MG"
+      },
+      {
+        "ingredient": "Lecitina de Soya",
+        "amount": "200.00MG"
+      },
+      {
+        "ingredient": "Aceite de Omega 3",
+        "amount": "500.00MG"
+      }
+    ],
+    "formula_summary": "Vitamina E (10.00UI), Aceite de Ajo (2.00MG), Lecitina de Soya (200.00MG), Aceite de Omega 3 (500.00MG)",
+    "brand": "Vitasil",
+    "laboratory": "Scherer",
+    "batch": null,
+    "expiry": null,
+    "expiry_status": "Vigente",
+    "prescription": "Venta Libre",
+    "price": 15.27,
+    "previous_price": 18.85,
+    "stock": 36,
+    "min_stock": 12,
+    "is_active": true,
+    "indications": "Está indicado para la prevención de estados carenciales de los componentes de la fórmula.",
+    "contraindications": "Hipersensibilidad a los componentes.",
+    "description": "Está indicado para la prevención de estados carenciales de los componentes de la fórmula.",
+    "image_url": "/images/catalog/VIT-00317.webp",
+    "source_url": "https://www.farmaciasannicolas.com/producto/Vitasil-Omega-3-Fuerte-X-50-Capsulas/B0002119CAPSULX50"
+  }
+]

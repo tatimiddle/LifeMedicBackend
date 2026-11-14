@@ -1,9 +1,54 @@
 @import 'tailwindcss';
+@import '@fontsource/geist-sans/400.css';
+@import '@fontsource/geist-sans/500.css';
+@import '@fontsource/geist-sans/600.css';
+@import '@fontsource/geist-sans/700.css';
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
+@source '../views/**/*.blade.php';
+@source '../js/**/*.js';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-sans: 'Geist Sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+    --color-canvas: #fafafa;
+    --color-sidebar: #ffffff;
+    --color-card-border: #e4e4e7;
+    --color-surface-muted: #f4f4f5;
+    --color-ink: #09090b;
+    --color-ink-muted: #71717a;
+    --color-brand-aqua: #095d52;
+    --color-brand-aqua-hover: #064940;
+    --color-brand-teal: #0f766e;
+    --color-brand-orange: #ea580c;
+    --color-brand-slate: #52525b;
+}
+
+@layer base {
+    html {
+        font-family: var(--font-sans);
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+        background-color: var(--color-canvas);
+        color: var(--color-ink);
+    }
+}
+
+[x-cloak] {
+    display: none !important;
+}
+
+.tabular-nums {
+    font-variant-numeric: tabular-nums;
+}
+
+.lm-card {
+    background-color: #ffffff;
+    border: 1px solid #ebebef;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 2px rgba(9, 9, 11, 0.02);
 }
